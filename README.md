@@ -2,7 +2,7 @@
 
 This repository contains the document **"Approximating Real-Time 2D Illumination with Cast Shadows and Rim Lighting"**, which presents a practical approach to implementing dynamic lighting in 2D games. The system is designed to balance simplicity and efficiency, focusing on dynamic point lights, cast shadows, and rim lighting.
 
-[Approximating_2D_Lighting.pdf](https://github.com/user-attachments/files/18464432/Approximating_2D_Lighting.pdf)
+<img width="750" alt="Image" src="https://github.com/user-attachments/assets/c487276f-a9db-46ca-ab4b-6d779fe7d0e8" />
 
 ---
 
